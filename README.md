@@ -26,7 +26,7 @@
 * atualizar filme --> localhost:3000/api/v1/filme/:id
 * deletar filme --> localhost:3000/api/v1/filme/:id
   
-### Rotas de filmes:
+### Rotas para locar/devolver filmes:
 * locar um filme --> localhost:3000/api/v1/filmes/locar
 * devolver um filme --> localhost:3000/api/v1/filmes/devolver
 
